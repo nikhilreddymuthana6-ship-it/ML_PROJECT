@@ -234,4 +234,4 @@ It also provides practical experience with data preprocessing, clustering analys
 
 **Dataset Size:** 1,000,000 synthetic customer records
 
-**GitHub Repository:**[PROJECT_LINK](https://github.com/nikhilreddymuthana6-ship-it/ML_PROJECT)
+**GitHub Repository:** [ML_PROJECT](https://github.com/dumpalahemasai07/ML_PROJECT)
